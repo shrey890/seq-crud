@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap')
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gochi-hand-regular {
+    font-family: "Gochi Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
